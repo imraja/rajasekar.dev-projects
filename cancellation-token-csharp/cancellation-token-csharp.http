@@ -1,0 +1,6 @@
+@cancellation_token_csharp_HostAddress = http://localhost:5026
+
+GET {{cancellation_token_csharp_HostAddress}}/ApiTest/
+Accept: application/json
+
+###
