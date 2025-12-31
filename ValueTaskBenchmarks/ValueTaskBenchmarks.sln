@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTaskBenchmarks", "ValueTaskBenchmarks.csproj", "{2E4C2FE0-2132-B8B8-3569-B5F3ED86C30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4C2FE0-2132-B8B8-3569-B5F3ED86C30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4C2FE0-2132-B8B8-3569-B5F3ED86C30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4C2FE0-2132-B8B8-3569-B5F3ED86C30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4C2FE0-2132-B8B8-3569-B5F3ED86C30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A6BDC3-C612-4005-9C4C-CCB34F5C5A79}
+	EndGlobalSection
+EndGlobal
